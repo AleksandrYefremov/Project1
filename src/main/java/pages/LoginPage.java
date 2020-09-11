@@ -1,5 +1,6 @@
 package pages;
 
+import org.apache.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -10,6 +11,7 @@ public class LoginPage extends ParentPage {
     public LoginPage(WebDriver webDriver) {
         super(webDriver);
     }
+    Logger logger = Logger.getLogger(getClass());
 
 
 
@@ -27,9 +29,9 @@ public class LoginPage extends ParentPage {
     public void openPage() {
         try {
             webDriver.get("http://v3.test.itpmgroup.com");
-            System.out.println("Login page was opened");
+            logger.info("Login page was opened");
         } catch (Exception e) {
-            System.out.println("Can not open Login Page " + e);
+            logger.info("Can not open Login Page " + e);
             Assert.fail("Can not open Login Page " + e);
         }
     }
@@ -44,5 +46,12 @@ public class LoginPage extends ParentPage {
 
     public void clickOnButtonSubmit(){
         actionsWithElements.clickOnElement(button);
+    }
+
+    public void login(String login, String passWord) {
+        openPage();
+        enterTextInToInputLogin(login);
+        enterTextInToInputPass(passWord);
+        clickOnButtonSubmit();
     }
 }
