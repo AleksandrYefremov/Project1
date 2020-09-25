@@ -150,3 +150,20 @@ Session ID: aa1cd3ae297f28f62dafe099640c2074
 2020-23-09 16:08:06   INFO [libs.ActionsWithElements] : SuperSpareSpare was input into element
 2020-23-09 16:08:07   INFO [libs.ActionsWithElements] : Element was clicked
 2020-23-09 16:08:07   INFO [libs.ActionsWithElements] : Element is displayed -> true
+2020-25-09 12:38:37   INFO [pages.LoginPage] : Login page was opened
+2020-25-09 12:38:39   INFO [libs.ActionsWithElements] : Student was input into element
+2020-25-09 12:38:39   INFO [libs.ActionsWithElements] : 909090 was input into element
+2020-25-09 12:38:41   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-09 12:38:41   INFO [libs.ActionsWithElements] : Element is displayed -> true
+2020-25-09 12:38:41   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-09 12:38:43   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-09 12:38:43   INFO [libs.ActionsWithElements] : Element is displayed -> true
+2020-25-09 12:38:43   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-09 12:38:44   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-09 12:38:51   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-09 12:38:51   INFO [libs.ActionsWithElements] : SuperSpareSpare was input into element
+2020-25-09 12:38:53   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-09 12:38:53   INFO [libs.ActionsWithElements] : Element is displayed -> true
+2020-25-09 12:38:53   INFO [libs.ActionsWithElements] : Element is displayed -> true
+2020-25-09 12:38:53   INFO [libs.ActionsWithElements] : Element was clicked
+2020-25-09 12:38:54   INFO [libs.ActionsWithElements] : Element was clicked
