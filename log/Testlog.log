@@ -167,3 +167,122 @@ Session ID: aa1cd3ae297f28f62dafe099640c2074
 2020-25-09 12:38:53   INFO [libs.ActionsWithElements] : Element is displayed -> true
 2020-25-09 12:38:53   INFO [libs.ActionsWithElements] : Element was clicked
 2020-25-09 12:38:54   INFO [libs.ActionsWithElements] : Element was clicked
+2020-08-10 13:03:40   INFO [pages.LoginPage] : Login page was opened
+2020-08-10 13:03:41   INFO [libs.ActionsWithElements] : Student was input into element
+2020-08-10 13:03:41   INFO [libs.ActionsWithElements] : 909090 was input into element
+2020-08-10 13:03:42   INFO [libs.ActionsWithElements] : Element was clicked
+2020-08-10 13:03:42   INFO [libs.ActionsWithElements] : Element is displayed -> true
+2020-08-10 13:03:43   INFO [libs.ActionsWithElements] : Element was clicked
+2020-08-10 13:03:44   INFO [libs.ActionsWithElements] : Element was clicked
+2020-08-10 13:03:50   INFO [libs.ActionsWithElements] : Element was clicked
+2020-08-10 13:03:50   INFO [libs.ActionsWithElements] : SuperSpareSpare was input into element
+2020-08-10 13:03:51   INFO [libs.ActionsWithElements] : Element was clicked
+2020-08-10 13:03:51   INFO [libs.ActionsWithElements] : Element is displayed -> true
+2020-08-10 13:03:51   INFO [libs.ActionsWithElements] : Element is displayed -> true
+2020-08-10 13:03:52   INFO [libs.ActionsWithElements] : Element was clicked
+2020-08-10 13:03:53   INFO [libs.ActionsWithElements] : Element was clicked
+2020-08-10 13:17:47   INFO [pages.LoginPage] : Login page was opened
+2020-08-10 13:17:47   INFO [libs.ActionsWithElements] : Student was input into element
+2020-08-10 13:17:47   INFO [libs.ActionsWithElements] : 906090 was input into element
+2020-08-10 13:17:48   INFO [libs.ActionsWithElements] : Element was clicked
+2020-08-10 13:17:53   INFO [libs.ActionsWithElements] : Element is displayed -> false
+2020-08-10 13:36:37   INFO [pages.LoginPage] : Login page was opened
+2020-08-10 13:36:37   INFO [libs.ActionsWithElements] : Student was input into element
+2020-08-10 13:36:37   INFO [libs.ActionsWithElements] : 909990 was input into element
+2020-08-10 13:36:38   INFO [libs.ActionsWithElements] : Element was clicked
+2020-08-10 13:36:43   INFO [libs.ActionsWithElements] : Element is displayed -> false
+2020-08-10 13:36:51   INFO [pages.LoginPage] : Login page was opened
+2020-08-10 13:36:51   INFO [libs.ActionsWithElements] : Login was input into element
+2020-08-10 13:36:51   INFO [libs.ActionsWithElements] : 909090 was input into element
+2020-08-10 13:36:52   INFO [libs.ActionsWithElements] : Element was clicked
+2020-08-10 13:36:57   INFO [libs.ActionsWithElements] : Element is displayed -> false
+2020-08-10 13:39:03   INFO [pages.LoginPage] : Login page was opened
+2020-08-10 13:39:04   INFO [libs.ActionsWithElements] : Student was input into element
+2020-08-10 13:39:04   INFO [libs.ActionsWithElements] : 909990 was input into element
+2020-08-10 13:39:05   INFO [libs.ActionsWithElements] : Element was clicked
+2020-08-10 13:39:10   INFO [libs.ActionsWithElements] : Element is displayed -> false
+2020-08-10 13:39:19   INFO [pages.LoginPage] : Login page was opened
+2020-08-10 13:39:19   INFO [libs.ActionsWithElements] : Login was input into element
+2020-08-10 13:39:20   INFO [libs.ActionsWithElements] : 909090 was input into element
+2020-08-10 13:39:20   INFO [libs.ActionsWithElements] : Element was clicked
+2020-08-10 13:39:25   INFO [libs.ActionsWithElements] : Element is displayed -> false
+2020-08-10 13:40:09   INFO [pages.LoginPage] : Login page was opened
+2020-08-10 13:40:10   INFO [libs.ActionsWithElements] : Student was input into element
+2020-08-10 13:40:10   INFO [libs.ActionsWithElements] : 909990 was input into element
+2020-08-10 13:40:11   INFO [libs.ActionsWithElements] : Element was clicked
+2020-08-10 13:40:16   INFO [libs.ActionsWithElements] : Element is displayed -> false
+2020-08-10 13:40:24   INFO [pages.LoginPage] : Login page was opened
+2020-08-10 13:40:24   INFO [libs.ActionsWithElements] : Student was input into element
+2020-08-10 13:40:24   INFO [libs.ActionsWithElements] : 909090 was input into element
+2020-08-10 13:40:25   INFO [libs.ActionsWithElements] : Element was clicked
+2020-08-10 13:40:25   INFO [libs.ActionsWithElements] : Element is displayed -> true
+2020-08-10 13:40:34   INFO [pages.LoginPage] : Login page was opened
+2020-08-10 13:40:34   INFO [libs.ActionsWithElements] : Login was input into element
+2020-08-10 13:40:34   INFO [libs.ActionsWithElements] : 909090 was input into element
+2020-08-10 13:40:35   INFO [libs.ActionsWithElements] : Element was clicked
+2020-08-10 13:40:40   INFO [libs.ActionsWithElements] : Element is displayed -> false
+2020-09-10 13:20:59   INFO [pages.LoginPage] : Login page was opened
+2020-09-10 13:21:01   INFO [libs.ActionsWithElements] : Student was input into element
+2020-09-10 13:21:01   INFO [libs.ActionsWithElements] : 909990 was input into element
+2020-09-10 13:21:02   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-10 13:21:08   INFO [libs.ActionsWithElements] : Element is displayed -> false
+2020-09-10 13:21:18   INFO [pages.LoginPage] : Login page was opened
+2020-09-10 13:21:18   INFO [libs.ActionsWithElements] : Student was input into element
+2020-09-10 13:21:18   INFO [libs.ActionsWithElements] : 909090 was input into element
+2020-09-10 13:21:19   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-10 13:21:19   INFO [libs.ActionsWithElements] : Element is displayed -> true
+2020-09-10 13:21:28   INFO [pages.LoginPage] : Login page was opened
+2020-09-10 13:21:28   INFO [libs.ActionsWithElements] : Login was input into element
+2020-09-10 13:21:29   INFO [libs.ActionsWithElements] : 909090 was input into element
+2020-09-10 13:21:29   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-10 13:21:34   INFO [libs.ActionsWithElements] : Element is displayed -> false
+2020-09-10 13:28:13   INFO [pages.LoginPage] : Login page was opened
+2020-09-10 13:28:14   INFO [libs.ActionsWithElements] : Student was input into element
+2020-09-10 13:28:14   INFO [libs.ActionsWithElements] : 909090 was input into element
+2020-09-10 13:28:15   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-10 13:28:15   INFO [libs.ActionsWithElements] : Element is displayed -> true
+2020-09-10 13:28:24   INFO [pages.LoginPage] : Login page was opened
+2020-09-10 13:28:24   INFO [libs.ActionsWithElements] : tttt was input into element
+2020-09-10 13:28:24   INFO [libs.ActionsWithElements] : 909090 was input into element
+2020-09-10 13:28:25   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-10 13:28:30   INFO [libs.ActionsWithElements] : Element is displayed -> false
+2020-09-10 13:28:38   INFO [pages.LoginPage] : Login page was opened
+2020-09-10 13:28:38   INFO [libs.ActionsWithElements] : Student was input into element
+2020-09-10 13:28:38   INFO [libs.ActionsWithElements] : 909990 was input into element
+2020-09-10 13:28:39   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-10 13:28:44   INFO [libs.ActionsWithElements] : Element is displayed -> false
+2020-09-10 13:28:52   INFO [pages.LoginPage] : Login page was opened
+2020-09-10 13:28:52   INFO [libs.ActionsWithElements] : Student was input into element
+2020-09-10 13:28:52   INFO [libs.ActionsWithElements] : 909090 was input into element
+2020-09-10 13:28:53   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-10 13:28:53   INFO [libs.ActionsWithElements] : Element is displayed -> true
+2020-09-10 13:29:01   INFO [pages.LoginPage] : Login page was opened
+2020-09-10 13:29:01   INFO [libs.ActionsWithElements] : Login was input into element
+2020-09-10 13:29:01   INFO [libs.ActionsWithElements] : 909090 was input into element
+2020-09-10 13:29:02   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-10 13:29:07   INFO [libs.ActionsWithElements] : Element is displayed -> false
+2020-09-10 13:53:02   INFO [pages.LoginPage] : Login page was opened
+2020-09-10 13:53:02   INFO [libs.ActionsWithElements] : Student was input into element
+2020-09-10 13:53:03   INFO [libs.ActionsWithElements] : 909090 was input into element
+2020-09-10 13:53:04   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-10 13:53:04   INFO [libs.ActionsWithElements] : Element is displayed -> true
+2020-09-10 13:53:12   INFO [pages.LoginPage] : Login page was opened
+2020-09-10 13:53:13   INFO [libs.ActionsWithElements] : tttt was input into element
+2020-09-10 13:53:13   INFO [libs.ActionsWithElements] : 909090 was input into element
+2020-09-10 13:53:13   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-10 13:53:18   INFO [libs.ActionsWithElements] : Element is displayed -> false
+2020-09-10 13:53:26   INFO [pages.LoginPage] : Login page was opened
+2020-09-10 13:53:27   INFO [libs.ActionsWithElements] : Student was input into element
+2020-09-10 13:53:27   INFO [libs.ActionsWithElements] : 909990 was input into element
+2020-09-10 13:53:28   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-10 13:53:33   INFO [libs.ActionsWithElements] : Element is displayed -> false
+2020-09-10 13:53:40   INFO [pages.LoginPage] : Login page was opened
+2020-09-10 13:53:41   INFO [libs.ActionsWithElements] : Student was input into element
+2020-09-10 13:53:41   INFO [libs.ActionsWithElements] : 909090 was input into element
+2020-09-10 13:53:42   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-10 13:53:42   INFO [libs.ActionsWithElements] : Element is displayed -> true
+2020-09-10 13:53:50   INFO [pages.LoginPage] : Login page was opened
+2020-09-10 13:53:50   INFO [libs.ActionsWithElements] : Login was input into element
+2020-09-10 13:53:50   INFO [libs.ActionsWithElements] : 909090 was input into element
+2020-09-10 13:53:51   INFO [libs.ActionsWithElements] : Element was clicked
+2020-09-10 13:53:56   INFO [libs.ActionsWithElements] : Element is displayed -> false
