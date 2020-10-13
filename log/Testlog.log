@@ -286,3 +286,23 @@ Session ID: aa1cd3ae297f28f62dafe099640c2074
 2020-09-10 13:53:50   INFO [libs.ActionsWithElements] : 909090 was input into element
 2020-09-10 13:53:51   INFO [libs.ActionsWithElements] : Element was clicked
 2020-09-10 13:53:56   INFO [libs.ActionsWithElements] : Element is displayed -> false
+2020-13-10 14:12:15   INFO [pages.LoginPage] : Login page was opened
+2020-13-10 14:12:16   INFO [libs.ActionsWithElements] : Student was input into element
+2020-13-10 14:12:16   INFO [libs.ActionsWithElements] : 909090 was input into element
+2020-13-10 14:12:17   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-10 14:12:17   INFO [libs.ActionsWithElements] : Element is displayed -> true
+2020-13-10 14:25:47   INFO [pages.LoginPage] : Login page was opened
+2020-13-10 14:25:47   INFO [libs.ActionsWithElements] : Student was input into element
+2020-13-10 14:25:47   INFO [libs.ActionsWithElements] : 906090 was input into element
+2020-13-10 14:25:48   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-10 14:25:53   INFO [libs.ActionsWithElements] : Element is displayed -> false
+2020-13-10 14:26:06   INFO [pages.LoginPage] : Login page was opened
+2020-13-10 14:26:06   INFO [libs.ActionsWithElements] : tudent was input into element
+2020-13-10 14:26:06   INFO [libs.ActionsWithElements] : 909090 was input into element
+2020-13-10 14:26:07   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-10 14:26:12   INFO [libs.ActionsWithElements] : Element is displayed -> false
+2020-13-10 14:28:40   INFO [pages.LoginPage] : Login page was opened
+2020-13-10 14:28:40   INFO [libs.ActionsWithElements] : Student was input into element
+2020-13-10 14:28:41   INFO [libs.ActionsWithElements] : 906090 was input into element
+2020-13-10 14:28:42   INFO [libs.ActionsWithElements] : Element was clicked
+2020-13-10 14:28:47   INFO [libs.ActionsWithElements] : Element is displayed -> false
