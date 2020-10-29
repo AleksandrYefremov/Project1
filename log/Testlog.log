@@ -337,3 +337,153 @@ Session ID: aa1cd3ae297f28f62dafe099640c2074
 2020-21-10 14:58:41   INFO [libs.Database] : дальше опятьcom.mysql.jdbc.JDBC4Connection@6debcae2
 2020-21-10 14:58:41   INFO [testDB.TestDB] : [[, idNumber, login, passWord], [1, 404, 404test, pass], [2, 404, 404test, pass], [3, 404, 404test, pass], [4, 404, 404test, pass], [5, 404, 404test, pass], [6, 404, 404test, pass], [7, 404, 404test, pass], [8, 404, 404test, pass], [9, 404, 404test, pass], [10, 404, 404test, pass], [11, 404, 404test, pass]]
 2020-21-10 14:58:41   INFO [testDB.TestDB] : [[, idNumber, login, passWord], [1, 404, 404test, pass], [2, 404, 404test, pass], [3, 404, 404test, pass], [4, 404, 404test, pass], [5, 404, 404test, pass], [6, 404, 404test, pass], [7, 404, 404test, pass], [8, 404, 404test, pass], [9, 404, 404test, pass], [10, 404, 404test, pass], [11, 404, 404test, pass], [12, 404, 404test, pass]]
+2020-29-10 14:21:50   INFO [libs.Database] : Данные считаны url database: jdbc:mysql://185.25.118.54:3306/old_qa
+2020-29-10 14:21:50   INFO [libs.Database] : Считали SQL драйвер 
+2020-29-10 14:21:50   INFO [libs.Database] :  user - old_qa pass PB3Q2F6tdSD9cL3z
+2020-29-10 14:21:50   INFO [libs.Database] : дальше опятьcom.mysql.jdbc.JDBC4Connection@1fbc7afb
+2020-29-10 14:21:50   INFO [testDB.TestDB] : [[, idNumber, login, passWord], [1, 404, 404test, pass], [2, 404, 404test, pass], [3, 404, 404test, pass], [4, 404, 404test, pass], [5, 404, 404test, pass], [6, 404, 404test, pass], [7, 404, 404test, pass], [8, 404, 404test, pass], [9, 404, 404test, pass], [10, 404, 404test, pass], [11, 404, 404test, pass], [12, 404, 404test, pass]]
+2020-29-10 14:21:50   INFO [testDB.TestDB] : [[, idNumber, login, passWord], [1, 404, 404test, pass], [2, 404, 404test, pass], [3, 404, 404test, pass], [4, 404, 404test, pass], [5, 404, 404test, pass], [6, 404, 404test, pass], [7, 404, 404test, pass], [8, 404, 404test, pass], [9, 404, 404test, pass], [10, 404, 404test, pass], [11, 404, 404test, pass], [12, 404, 404test, pass], [13, 404, 404test, pass]]
+2020-29-10 14:23:38   INFO [pages.LoginPage] : Can not open Login Page org.openqa.selenium.WebDriverException: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=86.0.4240.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NERV', ip: '172.16.16.25', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\8523~1\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50392}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0577f362a5b920a19474e047d6a9c150
+2020-29-10 14:23:49   INFO [pages.LoginPage] : Can not open Login Page org.openqa.selenium.WebDriverException: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=86.0.4240.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NERV', ip: '172.16.16.25', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\8523~1\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50414}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 970cee19f553bb1445a64f35368dbde4
+2020-29-10 14:24:04   INFO [pages.LoginPage] : Can not open Login Page org.openqa.selenium.WebDriverException: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=86.0.4240.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NERV', ip: '172.16.16.25', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\8523~1\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50435}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0d123f1f896d2240c7ea272300674c92
+2020-29-10 14:25:48   INFO [pages.LoginPage] : Can not open Login Page org.openqa.selenium.WebDriverException: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=86.0.4240.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NERV', ip: '172.16.16.25', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\8523~1\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50543}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 6fcdf4999cb3a34eb1a32ea268d196a6
+2020-29-10 14:26:10   INFO [pages.LoginPage] : Can not open Login Page org.openqa.selenium.WebDriverException: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=86.0.4240.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NERV', ip: '172.16.16.25', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\8523~1\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50564}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: cd224817cbb5483b049ebef7bb508de3
+2020-29-10 14:26:24   INFO [pages.LoginPage] : Can not open Login Page org.openqa.selenium.WebDriverException: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=86.0.4240.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NERV', ip: '172.16.16.25', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\8523~1\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50590}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 27fab1fa90dd584a45297f67b47082e3
+2020-29-10 15:14:50  DEBUG [org.apache.http.impl.conn.BasicClientConnectionManager] : Get connection for route {}->http://api.privatbank.ua:80
+2020-29-10 15:14:50  DEBUG [org.apache.http.impl.conn.DefaultClientConnectionOperator] : Connecting to api.privatbank.ua:80
+2020-29-10 15:14:50  DEBUG [org.apache.http.client.protocol.RequestAddCookies] : CookieSpec selected: ignoreCookies
+2020-29-10 15:14:50  DEBUG [org.apache.http.client.protocol.RequestAuthCache] : Auth cache not set in the context
+2020-29-10 15:14:50  DEBUG [org.apache.http.client.protocol.RequestTargetAuthentication] : Target auth state: UNCHALLENGED
+2020-29-10 15:14:50  DEBUG [org.apache.http.client.protocol.RequestProxyAuthentication] : Proxy auth state: UNCHALLENGED
+2020-29-10 15:14:50  DEBUG [org.apache.http.impl.client.DefaultHttpClient] : Attempt 1 to execute request
+2020-29-10 15:14:50  DEBUG [org.apache.http.impl.conn.DefaultClientConnection] : Sending request: GET /p24api/pubinfo?json&exchange&coursid=5 HTTP/1.1
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  >> "GET /p24api/pubinfo?json&exchange&coursid=5 HTTP/1.1[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  >> "Accept: */*[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  >> "Content-Length: 0[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  >> "Host: api.privatbank.ua[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  >> "Connection: Keep-Alive[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_251)[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  >> "[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.headers] : >> GET /p24api/pubinfo?json&exchange&coursid=5 HTTP/1.1
+2020-29-10 15:14:50  DEBUG [org.apache.http.headers] : >> Content-Type: application/json; charset=UTF-8
+2020-29-10 15:14:50  DEBUG [org.apache.http.headers] : >> Accept: */*
+2020-29-10 15:14:50  DEBUG [org.apache.http.headers] : >> Content-Length: 0
+2020-29-10 15:14:50  DEBUG [org.apache.http.headers] : >> Host: api.privatbank.ua
+2020-29-10 15:14:50  DEBUG [org.apache.http.headers] : >> Connection: Keep-Alive
+2020-29-10 15:14:50  DEBUG [org.apache.http.headers] : >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_251)
+2020-29-10 15:14:50  DEBUG [org.apache.http.headers] : >> Accept-Encoding: gzip,deflate
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  << "HTTP/1.1 301 Moved Permanently[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  << "Server: nginx[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  << "Date: Thu, 29 Oct 2020 13:14:47 GMT[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  << "Content-Type: text/html[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  << "Content-Length: 178[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  << "Connection: keep-alive[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  << "Location: https://api.privatbank.ua/p24api/pubinfo?json&exchange&coursid=5[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  << "[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.impl.conn.DefaultClientConnection] : Receiving response: HTTP/1.1 301 Moved Permanently
+2020-29-10 15:14:50  DEBUG [org.apache.http.headers] : << HTTP/1.1 301 Moved Permanently
+2020-29-10 15:14:50  DEBUG [org.apache.http.headers] : << Server: nginx
+2020-29-10 15:14:50  DEBUG [org.apache.http.headers] : << Date: Thu, 29 Oct 2020 13:14:47 GMT
+2020-29-10 15:14:50  DEBUG [org.apache.http.headers] : << Content-Type: text/html
+2020-29-10 15:14:50  DEBUG [org.apache.http.headers] : << Content-Length: 178
+2020-29-10 15:14:50  DEBUG [org.apache.http.headers] : << Connection: keep-alive
+2020-29-10 15:14:50  DEBUG [org.apache.http.headers] : << Location: https://api.privatbank.ua/p24api/pubinfo?json&exchange&coursid=5
+2020-29-10 15:14:50  DEBUG [org.apache.http.impl.client.DefaultHttpClient] : Connection can be kept alive indefinitely
+2020-29-10 15:14:50  DEBUG [org.apache.http.impl.client.DefaultRedirectStrategy] : Redirect requested to location 'https://api.privatbank.ua/p24api/pubinfo?json&exchange&coursid=5'
+2020-29-10 15:14:50  DEBUG [org.apache.http.impl.client.DefaultHttpClient] : Resetting target auth state
+2020-29-10 15:14:50  DEBUG [org.apache.http.impl.client.DefaultHttpClient] : Redirecting to 'https://api.privatbank.ua/p24api/pubinfo?json&exchange&coursid=5' via {s}->https://api.privatbank.ua:443
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  << "<html>[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  << "<head><title>301 Moved Permanently</title></head>[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  << "<body bgcolor="white">[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  << "<center><h1>301 Moved Permanently</h1></center>[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  << "<hr><center>nginx</center>[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  << "</body>[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.wire] :  << "</html>[\r][\n]"
+2020-29-10 15:14:50  DEBUG [org.apache.http.impl.conn.BasicClientConnectionManager] : Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@60856961
+2020-29-10 15:14:50  DEBUG [org.apache.http.impl.conn.BasicClientConnectionManager] : Connection can be kept alive indefinitely
+2020-29-10 15:14:50  DEBUG [org.apache.http.impl.conn.BasicClientConnectionManager] : Get connection for route {s}->https://api.privatbank.ua:443
+2020-29-10 15:14:50  DEBUG [org.apache.http.impl.conn.DefaultClientConnection] : Connection 0.0.0.0:52524<->52.214.51.78:80 closed
+2020-29-10 15:14:51  DEBUG [org.apache.http.impl.conn.DefaultClientConnectionOperator] : Connecting to api.privatbank.ua:443
+2020-29-10 15:14:53  DEBUG [org.apache.http.client.protocol.RequestAddCookies] : CookieSpec selected: ignoreCookies
+2020-29-10 15:14:53  DEBUG [org.apache.http.client.protocol.RequestAuthCache] : Auth cache not set in the context
+2020-29-10 15:14:53  DEBUG [org.apache.http.client.protocol.RequestTargetAuthentication] : Target auth state: UNCHALLENGED
+2020-29-10 15:14:53  DEBUG [org.apache.http.client.protocol.RequestProxyAuthentication] : Proxy auth state: UNCHALLENGED
+2020-29-10 15:14:53  DEBUG [org.apache.http.impl.client.DefaultHttpClient] : Attempt 2 to execute request
+2020-29-10 15:14:53  DEBUG [org.apache.http.impl.conn.DefaultClientConnection] : Sending request: GET /p24api/pubinfo?json&exchange&coursid=5 HTTP/1.1
+2020-29-10 15:14:53  DEBUG [org.apache.http.wire] :  >> "GET /p24api/pubinfo?json&exchange&coursid=5 HTTP/1.1[\r][\n]"
+2020-29-10 15:14:53  DEBUG [org.apache.http.wire] :  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2020-29-10 15:14:53  DEBUG [org.apache.http.wire] :  >> "Accept: */*[\r][\n]"
+2020-29-10 15:14:53  DEBUG [org.apache.http.wire] :  >> "Host: api.privatbank.ua[\r][\n]"
+2020-29-10 15:14:53  DEBUG [org.apache.http.wire] :  >> "Connection: Keep-Alive[\r][\n]"
+2020-29-10 15:14:53  DEBUG [org.apache.http.wire] :  >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_251)[\r][\n]"
+2020-29-10 15:14:53  DEBUG [org.apache.http.wire] :  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2020-29-10 15:14:53  DEBUG [org.apache.http.wire] :  >> "[\r][\n]"
+2020-29-10 15:14:53  DEBUG [org.apache.http.headers] : >> GET /p24api/pubinfo?json&exchange&coursid=5 HTTP/1.1
+2020-29-10 15:14:53  DEBUG [org.apache.http.headers] : >> Content-Type: application/json; charset=UTF-8
+2020-29-10 15:14:53  DEBUG [org.apache.http.headers] : >> Accept: */*
+2020-29-10 15:14:53  DEBUG [org.apache.http.headers] : >> Host: api.privatbank.ua
+2020-29-10 15:14:53  DEBUG [org.apache.http.headers] : >> Connection: Keep-Alive
+2020-29-10 15:14:53  DEBUG [org.apache.http.headers] : >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_251)
+2020-29-10 15:14:53  DEBUG [org.apache.http.headers] : >> Accept-Encoding: gzip,deflate
+2020-29-10 15:14:53  DEBUG [org.apache.http.wire] :  << "HTTP/1.1 200 OK[\r][\n]"
+2020-29-10 15:14:53  DEBUG [org.apache.http.wire] :  << "Server: nginx[\r][\n]"
+2020-29-10 15:14:53  DEBUG [org.apache.http.wire] :  << "Date: Thu, 29 Oct 2020 13:14:50 GMT[\r][\n]"
+2020-29-10 15:14:53  DEBUG [org.apache.http.wire] :  << "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2020-29-10 15:14:53  DEBUG [org.apache.http.wire] :  << "Transfer-Encoding: chunked[\r][\n]"
+2020-29-10 15:14:53  DEBUG [org.apache.http.wire] :  << "Connection: keep-alive[\r][\n]"
+2020-29-10 15:14:53  DEBUG [org.apache.http.wire] :  << "[\r][\n]"
+2020-29-10 15:14:53  DEBUG [org.apache.http.impl.conn.DefaultClientConnection] : Receiving response: HTTP/1.1 200 OK
+2020-29-10 15:14:53  DEBUG [org.apache.http.headers] : << HTTP/1.1 200 OK
+2020-29-10 15:14:53  DEBUG [org.apache.http.headers] : << Server: nginx
+2020-29-10 15:14:53  DEBUG [org.apache.http.headers] : << Date: Thu, 29 Oct 2020 13:14:50 GMT
+2020-29-10 15:14:53  DEBUG [org.apache.http.headers] : << Content-Type: application/json; charset=UTF-8
+2020-29-10 15:14:53  DEBUG [org.apache.http.headers] : << Transfer-Encoding: chunked
+2020-29-10 15:14:53  DEBUG [org.apache.http.headers] : << Connection: keep-alive
+2020-29-10 15:14:53  DEBUG [org.apache.http.impl.client.DefaultHttpClient] : Connection can be kept alive indefinitely
+2020-29-10 15:14:53  DEBUG [io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder] : Parsing response as: application/json; charset=UTF-8
+2020-29-10 15:14:53  DEBUG [io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder] : Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2020-29-10 15:14:54  DEBUG [org.apache.http.wire] :  << "10b[\r][\n]"
+2020-29-10 15:14:54  DEBUG [org.apache.http.wire] :  << "[{"ccy":"USD","base_ccy":"UAH","buy":"28.20000","sale":"28.60000"},{"ccy":"EUR","base_ccy":"UAH","buy":"33.10000","sale":"33.70000"},{"ccy":"RUR","base_ccy":"UAH","buy":"0.35700","sale":"0.39700"},{"ccy":"BTC","base_ccy":"USD","buy":"12457.9089","sale":"13769.2677"}]"
+2020-29-10 15:14:54  DEBUG [org.apache.http.wire] :  << "[\r][\n]"
+2020-29-10 15:14:54  DEBUG [org.apache.http.wire] :  << "0[\r][\n]"
+2020-29-10 15:14:54  DEBUG [org.apache.http.wire] :  << "[\r][\n]"
+2020-29-10 15:14:54  DEBUG [org.apache.http.impl.conn.BasicClientConnectionManager] : Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@698122b2
+2020-29-10 15:14:54  DEBUG [org.apache.http.impl.conn.BasicClientConnectionManager] : Connection can be kept alive indefinitely
